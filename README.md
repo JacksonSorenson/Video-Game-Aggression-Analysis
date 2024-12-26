@@ -5,21 +5,29 @@ This project investigates whether playing video games, particularly violent vide
 
 **Methodology**
 Data Collection: Survey data with Likert-scale responses and numerical measurements were gathered to assess aggression levels among video game players.
-Statistical Techniques:
-Cross-Tabulation: Used to analyze relationships between categorical variables such as exposure to violent video games and self-reported aggression levels.
-Chi-Squared Test: Assessed the statistical significance of associations between video game exposure and aggression.
-Data Types:
+**Statistical Techniques:**
+
+**Cross-Tabulation:** Used to analyze relationships between categorical variables such as exposure to violent video games and self-reported aggression levels.
+
+**Chi-Squared Test**: Assessed the statistical significance of associations between video game exposure and aggression.
+
+**Data Types:**
 Likert-Scale Data: Captures perceptions and attitudes related to aggression.
+
 Numerical Data: Quantitative measures such as hours spent gaming or aggression test scores.
 
 **Analysis**
 The analysis revealed the following key insights:
 
 **Exposure to Violent Video Games and Aggression:**
+
 The chi-squared test indicated a statistically significant relationship between frequent exposure to violent video games and higher aggression levels in certain demographics.
 However, causation cannot be inferred directly due to the observational nature of the data.
+
 **Time Spent on Video Games:**
+
 A positive trend was observed between the number of hours spent on video games and reported aggression, particularly for violent games. This relationship was weaker for non-violent games.
+
 **Demographic Variations:**
 Age and gender showed variations in aggression levels, with younger participants and male respondents exhibiting higher sensitivity to violent content.
 
